@@ -8,3 +8,14 @@ type NewsItem = {
     url: string;
     urlToImage: string;
 };
+
+type SourceItem = {
+    category: string;
+    country: string;
+    description: string;
+    id: string;
+    language: string;
+    name: string;
+    url: string;
+};
+};
