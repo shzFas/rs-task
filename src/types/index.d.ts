@@ -18,4 +18,3 @@ type SourceItem = {
     name: string;
     url: string;
 };
-};
