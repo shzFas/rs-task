@@ -1,1 +1,1 @@
-# rs-task
+# news-JS
