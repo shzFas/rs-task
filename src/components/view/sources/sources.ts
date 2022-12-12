@@ -16,7 +16,7 @@ class Sources {
 
     document.querySelector('.sources').append(fragment);
   }
-  splitByLetters(data: SourceItem[]) {
+  public splitByLetters(data: SourceItem[]) {
     const dataByLetters: SourcesByLettersInterface = {};
 
     data.map((i) => {
